@@ -1,0 +1,9 @@
+# /migrations/
+*.log
+*.pot
+**.pyc
+media
+env
+.idea
+dump.rdb
+.env
